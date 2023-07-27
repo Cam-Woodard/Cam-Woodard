@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cam-Woodard
 - 👀 I’m interested in ... programming, game design, music, art
-- 🌱 I’m currently learning ... Unity, blender, C++, javascript, python, java
+- 🌱 I’m currently learning ... Unity, blender, C++, javascript, python, java, and C#
 - 💞️ I’m looking to collaborate on ... web design, game development, cybersecurity
 - 📫 How to reach me ...
 

@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... programming, game design, music, art
 - 🌱 I’m currently learning ... Unity, blender, C++, javascript, python, java, and C#
 - 💞️ I’m looking to collaborate on ... web design, game development, cybersecurity
-- 📫 How to reach me ...
+- 📫 How to reach me ... email woodardcameronj@gmail.com
 
 <!---
 Cam-Woodard/Cam-Woodard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
